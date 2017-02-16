@@ -7,3 +7,4 @@
 ### Places to Visit
 - Portland
 - Eugene
+- Crater Lake
