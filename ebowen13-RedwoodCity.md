@@ -8,3 +8,4 @@ Sakura Teppanyaki and Sushi
 ## Places to Visit
 Bair Island Hike
 Cinemark Redwood Downtown 20 and XD
+Redwood Roller Rink
