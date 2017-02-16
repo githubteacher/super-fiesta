@@ -1,10 +1,12 @@
 # Chennai, India
 
+Weather in Chennai is hot and humid during summer, warm in winter
+
 ## Places to Eat
-- Cascal
-- Inchin's bamboo garden
+- Karaikudi
+- Aachi aapakadai
 
 ## Places to Visit
-- Beach
-- Alaska
-- Legoland
+- Marina beach
+- Old Mahabalipuram Road
+- Vedanthangal bird sanctuary
