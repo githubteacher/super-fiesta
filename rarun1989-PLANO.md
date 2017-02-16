@@ -1,5 +1,7 @@
 # PLANO, TX
 
+rainy weather this week
+
 ### Places to Eat
 -Chipotle
 -Whichwich
