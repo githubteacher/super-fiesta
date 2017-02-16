@@ -1,4 +1,5 @@
 # San Jose, CA
+See last of the "Places to visit" ;-)
 
 ### Places to eat
 Backayard
