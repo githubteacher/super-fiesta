@@ -10,6 +10,7 @@ Philz Coffee
 ### Places to visit
 San Francisco
 Stanford
+Really anywhere around there that's outside of San Jose
 
 # San Diego, CA
 
