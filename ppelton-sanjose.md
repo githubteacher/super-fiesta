@@ -18,4 +18,4 @@ Really anywhere around there that's outside of San Jose
 Cucina Urbana
 
 ### Places to visit
-No idea
+Balboa Theater
