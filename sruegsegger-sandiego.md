@@ -1,7 +1,7 @@
 # San Diego, CA
 
 ### Places to Eat
-- Tacos El Gordo
+- Tacos El Gordo (everyone loves tacos :smile:)
 - Donovan's
 - Liberty Station
 
