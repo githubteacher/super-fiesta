@@ -1,5 +1,9 @@
-# this is title
+# San Diego, CA 
 
-## this is second title
+### Places to eat
+-PE1
+-PE2
 
-### this is third title
+### Places to visit
+-PV1
+-PV2
