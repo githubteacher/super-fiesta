@@ -3,6 +3,7 @@
 #### Places to eat
 - Erawan Thai
 - CPK
+- Bj's
 
 #### Places to visit
 - Downtown
